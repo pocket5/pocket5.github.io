@@ -183,9 +183,4 @@ button:focus-visible {
   display: none;
 }
 
-.socials {
-  max-width: 22rem; /* same width as the buttons */
-  font-size: 0.85rem;
-}
-
 
